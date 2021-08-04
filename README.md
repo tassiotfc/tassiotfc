@@ -1,9 +1,7 @@
-<h1 align="center"> Olá, satisfação por sua visita 👋 </h1>
-<h3 align="center"> Desenvolvedor Java, graduado em TI e formando do curso de Engenharia de Software </h3>
+<h1 align="center"> Hi there 👋, Nice to meet you here.</h1>
+<h3 align="center"> Java Developer, degree in Information Technology and soon-to-be graduate in Software Engineering by UFERSA. </h3>
 
-<div align="center">  
-  <i>Conecte-se comigo:</i><br>
-  
+<div align="center">    
   <a href="https://github.com/tassiotfc" alt="github" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?&style=flat-square&logo=GitHub&logoColor=white">
   </a>
@@ -23,9 +21,9 @@
 
 <br/>
 
-<h3> :man: &nbsp;About me </h3>
-
 <h3 align="left"> :rocket:&nbsp;Hard Skills:</h3>
+
+<img src="https://github.com/tassiotfc/artefatos-doc-software/blob/master/images/undraw_feeling_proud_qne1.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 **Programming Languages and Database**
 
