@@ -1,4 +1,44 @@
-### Hi there 👋
+<h1 align="center"> Olá, satisfação por sua visita 👋 </h1>
+<h3 align="center"> Desenvolvedor Java | Graduado em TI  | Formando do curso de Engenharia de Software </h3>
+
+<div align="center">  
+  <i>Conecte-se comigo:</i><br>
+    
+  <a href="https://www.linkedin.com/in/tássio-fernandes-87a58b114" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
+
+<br/>
+
+<h3 align="left">Linguagens e Ferramentas:</h3>
+<p align="left"> 
+
+    <a href="https://docs.oracle.com/en/java/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+    
+    <a href="https://devdocs.io/c/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+    
+    <br/>
+    
+    <a href="https://spring.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> </a>
+    
+    <a href="https://junit.org/junit5/" target="_blank"> <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="junit" width="40" height="40"/> </a>
+    
+    <br/>
+    
+    <a href="https://www.postgresql.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgres" width="40" height="40"/> </a>
+    
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> </a>
+    
+    <br/>
+    
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
+    
+    <a href="https://github.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
+    
+    <a href="https://about.gitlab.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/> </a>
+    
+</p>
 
 <!--
 **tassiotfc/tassiotfc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
