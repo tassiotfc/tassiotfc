@@ -21,6 +21,11 @@
 
 <br/>
 
+<h3 align="left"> :man_technologist:&nbsp;Experience:</h3>
+During graduation I worked as an algorithms monitor (4 semesters) and discrete math monitor (1 semester). 
+<br/>
+In addition, I developed research in the area of formal methods in software engineering.
+
 <h3 align="left"> :rocket:&nbsp;Hard Skills:</h3>
 
 <img src="https://github.com/tassiotfc/tassiotfc/blob/main/undraw_feeling_proud_qne1.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
@@ -74,13 +79,20 @@
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=Ubuntu)
   ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows&logoColor=0078D6)
 
-<details open>
-    <summary>⚙ <b>GitHub Analytics</b>: </summary>
-    <br>
-    <p align="center">
-      <a href="https://github.com/tassiotfc">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tassiotfc&show_icons=true&theme=tokyonight" />
-      <a/>
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tassiotfc&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    </p>
-</details>
+<h3>:gear:&nbsp;GitHub Analytics:</h3>
+  <p align="center">
+    <a href="https://github.com/tassiotfc">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tassiotfc&show_icons=true&theme=tokyonight" />
+    <a/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tassiotfc&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </p>
+
+<h3 align="left"> :memo:&nbsp;Additional Information:</h3>
+
+- [Curriculum Vitae](https://rxresu.me/r/xcdpvt)
+
+
+<p>
+  <a href="https://www.w3.org/html/" target="_blank"> 
+<img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5" alt="html5"/>
+  </p>
