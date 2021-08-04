@@ -12,12 +12,12 @@
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:tassiofernandescosta@gmail.com" />
   </a>
   
- 
+  <a href="https://wa.me/5584991430120" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5584991430120&text=Hello"/></a>
+  
 </div>
 
 <br/>
-
- [![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tassiofernandescosta@gmail.com)](mailto:tassiofernandescosta@gmail.com)
 
 <h3> :man: &nbsp;About me </h3>
 
