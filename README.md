@@ -23,7 +23,7 @@
 
 <h3 align="left"> :rocket:&nbsp;Hard Skills:</h3>
 
-<img src="https://github.com/tassiotfc/artefatos-doc-software/blob/master/images/undraw_feeling_proud_qne1.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/tassiotfc/tassiotfc/blob/main/undraw_feeling_proud_qne1.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 **Programming Languages and Database**
 
