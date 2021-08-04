@@ -1,6 +1,7 @@
 <h1 align="center"> Hi there 👋, Nice to meet you here.</h1>
 <h3 align="center"> Java Developer, degree in Information Technology and soon-to-be graduate in Software Engineering by UFERSA. </h3>
 
+<!-- Contatos -->
 <div align="center">    
   <a href="https://github.com/tassiotfc" alt="github" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?&style=flat-square&logo=GitHub&logoColor=white">
@@ -21,11 +22,13 @@
 
 <br/>
 
+<!-- Experience -->
 <h3 align="left"> :man_technologist:&nbsp;Experience:</h3>
 During graduation I worked as an algorithms monitor (4 semesters) and discrete math monitor (1 semester). 
 <br/>
 In addition, I developed research in the area of formal methods in software engineering.
 
+<!-- Hard Skills -->
 <h3 align="left"> :rocket:&nbsp;Hard Skills:</h3>
 
 <img src="https://github.com/tassiotfc/tassiotfc/blob/main/undraw_feeling_proud_qne1.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
@@ -79,6 +82,7 @@ In addition, I developed research in the area of formal methods in software engi
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=Ubuntu)
   ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows&logoColor=0078D6)
 
+<!-- GitHub Analytics -->
 <h3>:gear:&nbsp;GitHub Analytics:</h3>
   <p align="center">
     <a href="https://github.com/tassiotfc">
@@ -87,12 +91,44 @@ In addition, I developed research in the area of formal methods in software engi
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tassiotfc&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </p>
 
+<!-- Additional Information -->
 <h3 align="left"> :memo:&nbsp;Additional Information:</h3>
 
 - [Curriculum Vitae](https://rxresu.me/r/xcdpvt)
 
+<!-- Hard Skills Lincavel-->
+<!-- **Programming Languages and Database**
+<p align="left">
+  <a href="" target="_blank"> 
+<img src="https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396" alt="java"/>
+  
+  <a href="" target="_blank"> 
+<img src="https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=spring-boot" alt="spring"/>
+ 
+  <a href="" target="_blank"> 
+<img src="https://img.shields.io/badge/-Maven-333333?style=flat&logo=apache-maven&logoColor=C71A36" alt="maven"/>
 
-<p>
-  <a href="https://www.w3.org/html/" target="_blank"> 
+  <a href="" target="_blank"> 
+<img src="https://img.shields.io/badge/-JUnit5-333333?style=flat&logo=junit5" alt="junit"/>
+
+  <a href="" target="_blank"> 
+<img src="https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C" alt="c"/>
+</p>
+    
+<p align="left">
+   
+  <a href="" target="_blank"> 
+<img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt="javascript"/>
+  <a href="" target="_blank"> 
 <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5" alt="html5"/>
-  </p>
+  <a href="" target="_blank"> 
+<img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6" alt="css"/>
+</p>
+    
+<p align="left">
+  <a href="" target="_blank"> 
+<img src="https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL" alt="postgresql"/>
+  <a href="" target="_blank"> 
+<img src="https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb" alt="mongodb"/>
+</p>
+ -->
