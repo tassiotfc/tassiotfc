@@ -31,7 +31,9 @@ In addition, I developed research in the area of formal methods in software engi
 <!-- Hard Skills -->
 <h3 align="left"> :rocket:&nbsp;Hard Skills:</h3>
 
-<img src="https://github.com/tassiotfc/tassiotfc/blob/main/undraw_feeling_proud_qne1.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<!-- <img src="https://github.com/tassiotfc/tassiotfc/blob/main/undraw_feeling_proud_qne1.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode"> -->
+
+
 
 **Programming Languages and Database**
 
@@ -40,6 +42,8 @@ In addition, I developed research in the area of formal methods in software engi
   ![Maven](https://img.shields.io/badge/-Maven-333333?style=flat&logo=apache-maven&logoColor=C71A36)
   ![JUnit5](https://img.shields.io/badge/-JUnit5-333333?style=flat&logo=junit5)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" min-width="400px" max-width="400px" width="500px" align="right" alt="logo">  
   
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
