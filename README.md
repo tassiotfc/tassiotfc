@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://github.com/tassiotfc/tassiotfc/blob/main/octo.gif" alt="GitHub Logo" width="150" height="150" />
+</div>
+
 <h1 align="center"> Hi there 👋, Nice to meet you here.</h1>
 <h3 align="center"> Java Developer, degree in Information Technology and soon-to-be graduate in Software Engineering by UFERSA. </h3>
 
