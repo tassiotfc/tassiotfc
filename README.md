@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center"> Hi there 👋, Nice to meet you here.</h1>
-<h3 align="center"> Java Developer, degree in Information Technology and soon-to-be graduate in Software Engineering by UFERSA. </h3>
+<h3 align="center"> Java Developer, degree in Information Technology and in Software Engineering by UFERSA. </h3>
 
 <!-- Contatos -->
 <div align="center">    
