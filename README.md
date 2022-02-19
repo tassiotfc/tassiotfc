@@ -30,7 +30,7 @@
 <h3 align="left"> :man_technologist:&nbsp;Experience:</h3>
 During graduation I worked as an algorithms monitor (4 semesters) and discrete math monitor (1 semester). 
 <br/>
-In addition, I developed research in the area of formal methods in software engineering.
+In addition, I worked with research in the area of formal methods in software engineering.
 
 <!-- Hard Skills -->
 <h3 align="left"> :rocket:&nbsp;Hard Skills:</h3>
